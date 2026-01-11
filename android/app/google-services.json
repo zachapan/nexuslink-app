@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608390853888",
+    "project_id": "nexuslink-card",
+    "storage_bucket": "nexuslink-card.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608390853888:android:c406495c1c0b5410126fe5",
+        "android_client_info": {
+          "package_name": "com.nexuslink.card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI5DvA5UDLGAoMB1lrFl796ItKVMnv9gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
